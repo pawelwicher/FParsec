@@ -1,1 +1,1 @@
-# FParsec
+# FParsec - simple calulator
